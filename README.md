@@ -1,5 +1,5 @@
 # yapir
-Yet antoher Raspberry PI Radio Player
+Yet another Raspberry PI Radio Player
 
 Simple custom-tailored internet radio player for Raspberry PI with mpc/mpd
 
