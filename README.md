@@ -20,3 +20,5 @@ https://github.com/Mic92/python-mpd2
 https://github.com/schamp/PersistentMPDClient
 
 Thanks folks for the libraries!
+
+Program is working good for me but a very short to do list is in the TO-DO-LIST file
